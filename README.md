@@ -50,6 +50,7 @@ The model training may take time to train as you will be working with large epoc
 - TensorFlow 
 - Keras
 - Matplotlib
+- Augmentor
 
 
 ## Acknowledgements
